@@ -26,7 +26,7 @@
 
                     document.forms["RegForm"]["Password"]; 
 
-                var address =  
+                var age =  
 
                     document.forms["RegForm"]["Address"]; 
 
@@ -159,7 +159,7 @@
         <form name="RegForm" action="/submit.php" 
 
               onsubmit="return GEEKFORGEEKS()" method="post"> 
-              <h1 style="text-align: center;">REGISTRATION FORM</h1> 
+              <h1 style="text-align: center;">LOGIN FORM</h1> 
 
             <p><b>NAME: </b><br><input type="text" 
 
@@ -215,7 +215,7 @@
 
                        value="Reset" name="Reset" /> 
 
-            </p> 
+             
 
         </form> 
 
