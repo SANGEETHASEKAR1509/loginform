@@ -48,7 +48,7 @@
 
                     window.alert("Please enter your age."); 
 
-                    address.focus(); 
+                    age.focus(); 
 
                     return false; 
 
