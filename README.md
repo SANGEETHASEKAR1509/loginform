@@ -192,8 +192,11 @@
                 <b>SELECT YOUR COURSE </b>
 
                 <select type="text" value="" name="Subject"> 
+                    <option>SELECT COURSE</option> 
 
-                    <option>BTECH</option> 
+
+                    <option>B.TECH</option> 
+                    
 
                     <option>BBA</option> 
 
@@ -201,7 +204,9 @@
 
                     <option>B.COM</option> 
 
-                    <option>GEEKFORGEEKS</option> 
+                    <option>B.E</option> 
+                    <option>BSC</option> 
+
 
                 </select> 
 
