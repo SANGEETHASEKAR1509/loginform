@@ -44,9 +44,9 @@
 
   
 
-                if (address.value == "") { 
+                if (age.value == "") { 
 
-                    window.alert("Please enter your address."); 
+                    window.alert("Please enter your age."); 
 
                     address.focus(); 
 
@@ -163,27 +163,27 @@
 
             <p><b>NAME: </b><br><input type="text" 
 
-                            size="65" name="Name" /></p> 
+                            size="50" name="Name" /></p> 
 
-            <p><b>ADDRESS: </b><br> <input type="text" 
+            <p><b>AGE: </b><br> <input type="text" 
 
-                               size="65" name="Address" /> 
+                               size="50" name="Address" /> 
 
           </p> 
 
           <p><b>E-MAIL ADDRESS: </b><br><input type="text" 
 
-                            size="65" name="EMail" /></p> 
+                            size="50" name="EMail" /></p> 
 
 
             <p><b>PASSWORD:</b> <br><input type="password" 
 
-                         size="65" name="Password" /></p> 
+                         size="50" name="Password" /></p> 
 
 
             <p><b>TELEPHONE:</b> <br><input type="text" 
 
-                        size="65" name="Telephone" /></p> 
+                        size="50" name="Telephone" /></p> 
 
   
 
@@ -207,15 +207,9 @@
 
             </p> 
 
-            <p><b>COMMENTS:</b> <textarea cols="55" 
-
-                              name="Comment"> </textarea></p> 
-
-            <p> <br>
-
                 <input type="submit" 
 
-                       value="send" name="Submit" /> 
+                       value="Login" name="Submit" /> 
 
                 <input type="reset" 
 
